@@ -2,7 +2,7 @@
 
 Welcome to our project for the course Artificial Intelligence for Business where we apply machine learning models to a funda dataset of one of the previous courses.
 
-We have build and evaluated machine learning approaches to predict the price of a house,  and the time to sale a house.
+We have build and evaluated machine learning approaches to predict the price of a house,  and the time to sell a house.
 
 
 
