@@ -1,0 +1,2 @@
+## Conclusion
+To conclude, we have to decide which model fits best. Therefore we looked at the R2 scores of our models. Even tough our scores have a negative value the scores are still valid. The scores of the R2 normally lay between 0 and 1, where as a value close to 1 shows that the model fits the data extremely well. All in all we choose the Neural Network model, because the (negative) values are higher than the negative value of the Random Forrest R2 score.
